@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação**  
 🚀 Em busca da minha **primeira oportunidade na área de tecnologia**  
-💡 Curiosa, dedicada e pronta pra aprender coisas novas todos os dias  
+💡 Pronta pra aprender coisas novas todos os dias  
 📬 Disponível pelo e-mail: **furuseleticia61@gmail.com**
 
 ---
@@ -20,27 +20,16 @@
 
 ---
 
-## 🌱 Atualmente estou...
-
-- Aprendendo sobre **desenvolvimento full stack**
-- Praticando com **projetos acadêmicos e pessoais**
-- Melhorando meus conhecimentos em **banco de dados e lógica de programação**
-- Aprofundando no uso do **Git e GitHub**
-
----
-
 ## 📌 Sobre mim
 
-✨ Tenho interesse em atuar em **desenvolvimento web**, seja no front-end, back-end ou full stack  
-👩‍💻 Me inspiro em projetos que **melhoram a vida das pessoas com tecnologia**  
+👩‍💻 Interesse em **desenvolvimento web**, full stack  
 🤝 Estou aberta a **colaborações, mentorias e oportunidades de estágio**
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Contato
 
-📧 E-mail: **furuseleticia61@gmail.com**  
-🌐 Em breve: Portfólio pessoal com meus projetos (em construção!)
+📧 E-mail: **furuseleticia61@gmail.com**
 
 ---
 
