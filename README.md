@@ -22,7 +22,7 @@
 
 ## 📌 Sobre mim
 
-👩‍💻 Interesse em ** full stack** e **banco de dados** 
+👩‍💻 Interesse em **full stack** e **banco de dados** 
 
 🤝 Estou aberta a **colaborações, mentorias e oportunidades de estágio**
 
