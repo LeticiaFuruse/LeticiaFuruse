@@ -1,6 +1,8 @@
 # 👋 Oi, eu sou a Leticia Furuse!
 
+🎓 Formada em **Analise e desenvolimento**  
 🎓 Estudante de **Sistemas de Informação**  
+
 🚀 Em busca da minha **primeira oportunidade na área de tecnologia**  
 💡 Pronta pra aprender coisas novas todos os dias  
 📬 Disponível pelo e-mail: **furuseleticia61@gmail.com**
