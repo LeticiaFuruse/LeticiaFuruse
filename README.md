@@ -3,7 +3,7 @@
 # 🩷 Portfolio
 https://leticiafuruse.github.io/Portfolio/
 
-🎓 Formada em **Analise e desenvolimento**  
+🎓 Formada em **Analise e desenvolvimento**  
 🎓 Estudante de **Sistemas de Informação**  
 
 🚀 Em busca da minha **primeira oportunidade na área de tecnologia**  
