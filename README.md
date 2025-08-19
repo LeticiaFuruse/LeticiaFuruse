@@ -6,8 +6,6 @@ https://leticiafuruse.github.io/Portfolio/
 🎓 Formada em **Analise e desenvolvimento**  
 🎓 Estudante de **Sistemas de Informação**  
 
-🚀 Em busca de uma **oportunidade na área de desenvolvimento**  
-💡 Pronta pra aprender coisas novas todos os dias  
 📬 Disponível pelo e-mail: **furuseleticia61@gmail.com**
 
 ---
@@ -28,8 +26,6 @@ https://leticiafuruse.github.io/Portfolio/
 ## 📌 Sobre mim
 
 👩‍💻 Interesse em **full stack** e **banco de dados** 
-
-🤝 Estou aberta a **colaborações, mentorias e oportunidades de estágio**
 
 ---
 
