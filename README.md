@@ -1,6 +1,4 @@
-# 👋 Oi, eu sou a Leticia Furuse!
-
-# 🩷 Portfolio
+# Oi, eu sou a Leticia Furuse!
 https://leticiafuruse.github.io/Portfolio/
 
 🎓 Formada em **Analise e desenvolvimento**  
